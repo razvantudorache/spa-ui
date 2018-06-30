@@ -3,10 +3,20 @@ This project contains helpful plugins to easy build single page applications.
 
 [logo]: media/GitHub-Mark-32px.png
 
-|||
-|:---|:---|
-|[ag-Grid](https://www.ag-grid.com/)|[![logo]](https://github.com/ag-grid/ag-grid)|
-
+<table>
+    <tr>
+        <th>Plugin</th>
+        <th>Github repository</th>
+    </tr>
+    <tr align="center">
+       <td>
+         <a target="_blank" href="https://www.ag-grid.com/">ag-Grid</a>  
+       </td> 
+       <td>
+         <a target="_blank" href="https://github.com/FrDH/jQuery.mmenu"><img src="media/GitHub-Mark-32px.png"/></a>
+       </td>
+    </tr>
+</table>
 
 <div style="font-size: 16px; margin-top: 10px;">
     <a href="http://mmenu.frebsite.nl/">jQuery.mmenu</a> <a href="https://github.com/FrDH/jQuery.mmenu"><img src="media/GitHub-Mark-32px.png"/></a>
