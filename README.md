@@ -82,8 +82,8 @@ This project contains helpful plugins to easy build single page applications.
        <td>
          <a href="https://blueimp.github.io/JavaScript-Templates/">JavaScript-Templates</a>
        </td>
-         <a href="https://github.com/blueimp/JavaScript-Templates"><img src="media/GitHub-Mark-32px.png"/></a>
        <td align="center">
+         <a href="https://github.com/blueimp/JavaScript-Templates"><img src="media/GitHub-Mark-32px.png"/></a>
        </td>
     </tr>
     <tr>
