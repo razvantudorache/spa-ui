@@ -1,9 +1,12 @@
 # SPA-UI
 This project contains helpful plugins to easy build single page applications.
 
-<div style="display: flex; align-items: center; font-size: 16px; margin-top: 10px;">
-    <a href="https://www.ag-grid.com/">ag-Grid</a> <a href="https://github.com/ag-grid/ag-grid"><img src="media/GitHub-Mark-32px.png"/></a>
-</div>
+[logo]: media/GitHub-Mark-32px.png
+
+|||
+|:---|:---|
+|[ag-Grid](https://www.ag-grid.com/)|[![logo]](https://github.com/ag-grid/ag-grid)|
+
 
 <div style="font-size: 16px; margin-top: 10px;">
     <a href="http://mmenu.frebsite.nl/">jQuery.mmenu</a> <a href="https://github.com/FrDH/jQuery.mmenu"><img src="media/GitHub-Mark-32px.png"/></a>
