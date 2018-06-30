@@ -11,7 +11,7 @@ This project contains helpful plugins to easy build single page applications.
          <a href="https://www.ag-grid.com/">ag-Grid</a>  
        </td> 
        <td align="center">
-         <a href="https://github.com/FrDH/jQuery.mmenu"><img src="media/GitHub-Mark-32px.png"/></a>
+         <a href="https://github.com/ag-grid/ag-grid"><img src="media/GitHub-Mark-32px.png"/></a>
        </td>
     </tr>
     <tr>
